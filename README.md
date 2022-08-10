@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 - 🌱 Estudando JavaScript
 - 📫 Contato: gustavodasilvadias496@gmail.com
 - ⚡ Curiosidade: Adoro mangás e HQs
+- Portfólio -> https://portfoliogustavodias.netlify.app/
 
 <div align="center">
   <a href="https://github.com/GustavoDias496">
