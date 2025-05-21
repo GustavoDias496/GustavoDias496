@@ -3,8 +3,8 @@
 Here are some ideas to get you started:
 
 - 🔭 Estou trabalhando como bolsista no IFNMG-Salinas
-- 📚 Cursando Bacharelado em Sistemas de Informação
-- 🌱 Estudando JavaScript
+- 📚 Bacharel em Sistemas de Informação
+- 🌱 Apaixonado por tecnologia
 - 📫 Contato: gustavodasilvadias496@gmail.com
 - ⚡ Curiosidade: Adoro mangás e HQs
 - Portfólio -> https://portfoliogustavodias.netlify.app/
